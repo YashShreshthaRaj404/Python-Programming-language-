@@ -1,6 +1,6 @@
 <img align="right" alt="coding" width="250" src="https://images.app.goo.gl/HJAC7GrHZvGJ4LTX6">
 
-# 💫 About Me:
+# 💫 About:
 🔭 I’m currently working on Python <br>🌱 I’m currently learning Python course <br>
 
 
