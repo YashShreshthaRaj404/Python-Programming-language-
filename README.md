@@ -1,5 +1,4 @@
-<img align="right" alt="coding" width="1200×628" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fpython%3Fsort%3Drecent&psig=AOvVaw0DKX9Z4vPB9Yzt94LuSsoh&ust=1716278847132000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiHpIrjm4YDFQAAAAAdAAAAABAE">
-
+![logo](https://github.com/YashShreshthaRaj404/Python-Programming-language-/blob/main/Python-01.jpg)
 # This is Python version 3.14.0 
 # PYTHON
 
