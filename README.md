@@ -8,16 +8,13 @@ Python was created by GUIDO VAN ROSSUM, on February 20,1991.
 PYTHON is a computer programming languages often used to build websites and software, and analyze data.
 
 
-![logo](https://images.app.goo.gl/XZyFKjD4dRFCEfZx7)
 
-
-
-## Using Python 
+## 🐍Using Python 
 
 Installable Python kits, and information about using Python, are available at python.org.
 
 
-## Build Instruction 
+## 🛠Build Instruction 
 
 On Unix,Linux,BSD,macOS and Cygwin:
 
@@ -54,14 +51,14 @@ If you wish, you can create a subdirectory and invoke configure from there. For 
 
 
 
-## What's New
+## ⚡️What's New
 
 
 We have a comprehensive overview of the changes in the What's New in Python 3.13 document. For a more detailed change log, read Misc/NEWS, but a full accounting of changes can only be gleaned from the commit history.
 
 
 
-## Installing Multiple Version 
+## 🔗Installing Multiple Version 
 
 On Unix and Mac systems if you intend to install multiple versions of Python using the same installation prefix (--prefix argument to the configure script) you must take care that your primary python executable is not overwritten by the installation of a different version. All files and directories installed using make altinstall contain the major and minor version and can thus live side-by-side. make install also creates ${prefix}/bin/python3 which refers to ${prefix}/bin/python3.X. If you intend to install multiple versions using the same prefix you must decide which version (if any) is your "primary" version. Install that version using make install. Install all other versions using make altinstall.
 
@@ -69,7 +66,7 @@ For example, if you want to install Python 2.7, 3.6, and 3.13 with 3.13 being th
 
 
 
-## License
+## 🪪License 
 
 [MIT](https://github.com/YashShreshthaRaj404/Python-Programming-language-/blob/main/LICENSE)
 
@@ -94,7 +91,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Feedback
+## 💬Feedback
 
 If you have any feedback, please reach out to us at yashshreshtharaj14@gmail.com 
 
