@@ -2,7 +2,7 @@
 # This is Python version 3.14.0 
 # PYTHON
 
-Python was created by GUIDO VAN ROSSUM, on February 20,11991.
+Python was created by GUIDO VAN ROSSUM, on February 20,1991.
 
 PYTHON is a computer programming languages often used to build websites and software, and analyze data.
 
