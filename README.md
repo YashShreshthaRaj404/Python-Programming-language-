@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="250" src="https://images.app.goo.gl/HJAC7GrHZvGJ4LTX6">
+![logo](https://github.com/YashShreshthaRaj404/Python-Programming-language-/blob/main/Python-01.jpg)
 
 # 💫 About:
 🔭 I’m currently working on Python <br>🌱 I’m currently learning Python course <br>
