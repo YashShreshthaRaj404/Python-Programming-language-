@@ -1,4 +1,4 @@
-![logo](https://github.com/YashShreshthaRaj404/Python-Programming-language-/blob/main/Python-01.jpg)
+<img align="right" alt="coding" width="650" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQfgkVJCRAKfcKrM-YPM1eWVFQP5iLW2Md9mkBj60yKQ&s">
 
 # This is Python version 3.14.0 
 # PYTHON
