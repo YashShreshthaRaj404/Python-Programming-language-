@@ -79,6 +79,9 @@ For example, if you want to install Python 2.7, 3.6, and 3.13 with 3.13 being th
 [MIT](https://github.com/YashShreshthaRaj404/Python-Programming-language-/blob/main/LICENSE)
 
 
+
+<img align="right" alt="coding" width="200" src="https://lordicon.com/icons/wired/outline/996-shredder.svg">
+
 Copyright © 2024 YashShreshthaRaj404
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
