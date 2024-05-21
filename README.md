@@ -80,7 +80,7 @@ For example, if you want to install Python 2.7, 3.6, and 3.13 with 3.13 being th
 
 
 
-<img align="right" alt="coding" width="200" src="https://lordicon.com/icons/wired/outline/996-shredder.svg">
+<img align="right" alt="coding" width="120" src="https://lordicon.com/icons/wired/outline/996-shredder.svg">
 
 Copyright © 2024 YashShreshthaRaj404
 
