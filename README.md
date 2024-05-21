@@ -37,7 +37,7 @@ You can pass many options to the configure script; run ./configure --help to fin
 Building a complete Python installation requires the use of various additional third-party libraries, depending on your build platform and configure options. Not all standard library modules are buildable or useable on all platforms. Refer to the Install dependencies section of the Developer Guide for current detailed information on dependencies for various Linux distributions and macOS.
 
 
-<img align="right" alt="coding" width="300" src="https://excellenceacademy.co.in/wp-content/uploads/2021/08/devguy3.gif">
+<img align="right" alt="coding" width"260" src="https://excellenceacademy.co.in/wp-content/uploads/2021/08/devguy3.gif">
 
 
 On macOS, there are additional configure and build options related to macOS framework and universal builds. Refer to Mac/README.rst.
