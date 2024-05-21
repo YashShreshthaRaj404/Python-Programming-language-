@@ -8,7 +8,7 @@ Python was created by GUIDO VAN ROSSUM, on February 20,1991.
 PYTHON is a computer programming languages often used to build websites and software, and analyze data.
 
 
-<img align="right" alt="coding" width="500" src="https://media0.giphy.com/media/KAq5w47R9rmTuvWOWa/200w.webp?cid=6c09b9529r0iym3lhla6wjtxy90g6inzyiuq6x9jrw04tz2l&ep=v1_gifs_search&rid=200w.webp&ct=g">
+<img align="right" alt="coding" width="100" src="https://media0.giphy.com/media/KAq5w47R9rmTuvWOWa/200w.webp?cid=6c09b9529r0iym3lhla6wjtxy90g6inzyiuq6x9jrw04tz2l&ep=v1_gifs_search&rid=200w.webp&ct=g">
 
 
 
