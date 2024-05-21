@@ -73,14 +73,13 @@ On Unix and Mac systems if you intend to install multiple versions of Python usi
 For example, if you want to install Python 2.7, 3.6, and 3.13 with 3.13 being the primary version, you would execute make install in your 3.13 build directory and make altinstall in the others.others.
 
 
+<img align="right" alt="coding" width="120" src="https://lordicon.com/icons/wired/outline/996-shredder.svg">
 
 ## 🪪License 
 
 [MIT](https://github.com/YashShreshthaRaj404/Python-Programming-language-/blob/main/LICENSE)
 
 
-
-<img align="right" alt="coding" width="120" src="https://lordicon.com/icons/wired/outline/996-shredder.svg">
 
 Copyright © 2024 YashShreshthaRaj404
 
