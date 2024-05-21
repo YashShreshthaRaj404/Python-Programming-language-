@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="650" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQfgkVJCRAKfcKrM-YPM1eWVFQP5iLW2Md9mkBj60yKQ&s">
+<img align="right" alt="coding" width="650" src="https://i.giphy.com/coxQHKASG60HrHtvkt.webp">
 
 # This is Python version 3.14.0 
 # PYTHON
